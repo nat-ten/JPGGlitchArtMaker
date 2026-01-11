@@ -4,9 +4,11 @@ Specific segments can be targeted to be modified. These arguments must be viable
 The list of markers found in the JPG file can be printed using the -p option.
 
 EXAMPLE:
-![screenshot](original.jpg)
-![screenshot](glitched.jpg)
+
+![screenshot](images/original.jpg)
+![screenshot](images/glitched.jpg)
 
 EXAMPLE 2:
-![screenshot](original1.jpg)
-![screenshot](glitched1.jpg)
+
+![screenshot](images/original1.jpg)
+![screenshot](images/glitched1.jpg)
